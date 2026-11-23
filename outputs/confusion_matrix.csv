@@ -1,0 +1,10 @@
+"Actual","Predicted","Freq"
+"Disengaged Customers","Disengaged Customers",0
+"Elite Customers","Disengaged Customers",0
+"Regular Customers","Disengaged Customers",0
+"Disengaged Customers","Elite Customers",0
+"Elite Customers","Elite Customers",0
+"Regular Customers","Elite Customers",0
+"Disengaged Customers","Regular Customers",563
+"Elite Customers","Regular Customers",12
+"Regular Customers","Regular Customers",908

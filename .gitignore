@@ -1,0 +1,10 @@
+# R session files
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Office and OS temp files
+~$*
+desktop.ini
+Thumbs.db
